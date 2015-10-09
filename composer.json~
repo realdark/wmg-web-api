@@ -3,18 +3,16 @@
     "description": "A PHP implementation of WMG's Web API",
     "type": "library",
     "require": {
-	"realdark/wmg-web-api": "dev-master",
         "php": "5.4.1",
         "curl/curl": "dev-master"
     },
     "license": "MIT",
     "authors": [
         {
-            "name": "realdark",
-            "email": "me@borislazarov.com"
+            "name": "Boris Lazarov",
+            "email": "blazarov@datamax.bg"
         }
     ],
-    "minimum-stability": "dev",
     "psr-4": {
         "realdark\\WmgWebApi": "src"
     }
