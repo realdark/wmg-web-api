@@ -1,6 +1,6 @@
 <?php
 
-#namespace realdark\WmbWebApi;
+namespace realdark\WmbWebApi;
 
 /**
  * A PHP implementation of WMG's Web API
