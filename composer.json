@@ -13,7 +13,7 @@
             "email": "blazarov@datamax.bg"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "psr-4": {
         "realdark\\WmgWebApi": "src"
     }
