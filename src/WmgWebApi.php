@@ -4,6 +4,8 @@ namespace realdark\WmbWebApi;
 
 /**
  * A PHP implementation of WMG's Web API
+ *
+ * @author realdark <me@borislazarov.com>
  */
 class WmgWebApi
 {
