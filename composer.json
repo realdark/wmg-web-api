@@ -13,8 +13,10 @@
             "email": "blazarov@datamax.bg"
         }
     ],
-    "psr-4": {
-        "realdark\\WmgWebApi\\": "src/"
+    "autoload": {
+        "psr-4": {
+            "realdark\\WmgWebApi\\": "src/"
+        }
     }
 }
 
