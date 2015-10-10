@@ -14,7 +14,7 @@
         }
     ],
     "psr-4": {
-        "realdark\\WmgWebApi": "src"
+        "realdark\\WmgWebApi\\": "src/"
     }
 }
 
