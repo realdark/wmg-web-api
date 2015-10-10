@@ -16,7 +16,7 @@ A PHP implementation of [WMG's](https://tours-api.dsp.wmg.com/) Web API.
 Add `wmg-web-api` as a dependency to your composer.json:
 ```
 "require": {
-    "realdark/wmg-web-api": "1.3.*@dev"
+    "realdark/wmg-web-api": "dev-master"
 }
 ```
 
